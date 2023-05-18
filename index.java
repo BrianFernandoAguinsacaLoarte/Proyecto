@@ -3,5 +3,6 @@ public class Carpetita {
         System.out.println("Hola, este es mi primer programa");
         System.out.println("UNIVERSIDAD NACIONAL DE LOJA");
         System.out.println("BUENOS DIAS");
+        System.out.println("Buenas noches");
     }
 }
